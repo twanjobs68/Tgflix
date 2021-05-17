@@ -1,4 +1,28 @@
-.App {
+.tgflixbx{
+  height: 22px;
+  width: 30px;
+  justify-items: center;
+  
+
+  
+}
+
+h1{
+  height: 22vm;
+  width: 150px;
+  text-align: center;
+  background: purple;
+  color: white;
+  border: 1px solid gold;
+
+
+}
+
+
+
+
+/******************React CSS for Home page*****************/
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +59,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
